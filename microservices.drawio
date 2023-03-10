@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T09:59:06.332Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="O5lShX_6BTfwvrN9jPXV" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T10:02:52.590Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gIwSGOD7kQQXrKdKxolD" version="21.0.6" type="github">
   <diagram name="Page-1" id="UYAKuGyApjuQzm562IQM">
     <mxGraphModel dx="2074" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-1" value="alert API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-2" value="state machine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-3" value="property API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-4" value="discovery hydration #1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-5" value="repository hydration #1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-6" value="alert transmission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-7" value="transmission router" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-8" value="transient service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
