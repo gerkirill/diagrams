@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T10:02:52.590Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gIwSGOD7kQQXrKdKxolD" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T10:50:04.125Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="93SaGT6noDAOHpiPRqUd" version="21.0.6" type="github">
   <diagram name="Page-1" id="UYAKuGyApjuQzm562IQM">
     <mxGraphModel dx="2074" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,72 @@
         </mxCell>
         <mxCell id="ULEdzdXoIrf4CjI2YMk_-8" value="transient service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-10" value="alert template API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-11" value="cloud BA WSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-12" value="Triveni packager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-13" value="weather transmission" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-14" value="weather 7 day forecast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-16" value="weather collector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-17" value="video transcoding service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-18" value="data casting API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-19" value="analytics collector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-20" value="Ega packager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-21" value="DasDec AEAT packager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-22" value="flash channel API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-23" value="scheduler service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-24" value="notification API service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-25" value="AEAT packager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-26" value="redirection service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-27" value="SRT router" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-28" value="user management API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-29" value="Enensys packager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-30" value="event logger service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-31" value="playout scheduler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ULEdzdXoIrf4CjI2YMk_-32" value="playout transmitter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
